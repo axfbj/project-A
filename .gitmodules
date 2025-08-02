@@ -1,3 +1,12 @@
+[user]
+  name = axfbj
+  email = 1134281225@qq.com
+[http]
+  proxy = socks5://127.0.0.1:10808
+[https]
+  proxy = socks5://127.0.0.1:10808
 [submodule "base-template"]
 	path = base-template
 	url = https://github.com/axfbj/base-template.git
+	branch = main
+  
